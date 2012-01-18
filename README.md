@@ -25,7 +25,7 @@ more organized and streamlined process.
 
 ### Sample Output
 
-```
+``` php
 <?php
 
     echo __('English String', 'French String');
